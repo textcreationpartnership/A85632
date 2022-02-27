@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victory obtained by Colonel Norton and his horse, and Colonell Jones and his foote, against Colonel Rayden, from Basing house, neere Walneborough Mill, within halfe a mile of Odium; where were taken prisoners Ssrjeant [sic] Major Langely, a mercer in Pater-noster-row, that went to Basing, also his escape. Captain Rawlet that was a scrivener at Holbern bridge. Lieutenant Rawlet at Holborne Cunduit. Lieutenant Ivorie a citizen of London. Ensigne Lucas a silke dier in the Old baly. Ensigne Corum, a papist of Winchester. Robinson a chyrurgeon to the Marques of Winchester, a papist. Taken besides, 3 gentlemen of armes 3 serjeants, 3 drummers, 5 drums, 75 common men, 100 armes, some horse, 4 were slain. 10 of onr [sic] men which were prisoners in Basing house escaped. Certified by gentlemen that were engaged in the service. Published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85632</idno>
+            <idno type="STC">Wing G1771</idno>
+            <idno type="STC">Thomason E50_13</idno>
+            <idno type="STC">ESTC R1149</idno>
+            <idno type="EEBO-CITATION">99859041</idno>
+            <idno type="PROQUEST">99859041</idno>
+            <idno type="VID">155151</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85632)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155151)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E50[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victory obtained by Colonel Norton and his horse, and Colonell Jones and his foote, against Colonel Rayden, from Basing house, neere Walneborough Mill, within halfe a mile of Odium; where were taken prisoners Ssrjeant [sic] Major Langely, a mercer in Pater-noster-row, that went to Basing, also his escape. Captain Rawlet that was a scrivener at Holbern bridge. Lieutenant Rawlet at Holborne Cunduit. Lieutenant Ivorie a citizen of London. Ensigne Lucas a silke dier in the Old baly. Ensigne Corum, a papist of Winchester. Robinson a chyrurgeon to the Marques of Winchester, a papist. Taken besides, 3 gentlemen of armes 3 serjeants, 3 drummers, 5 drums, 75 common men, 100 armes, some horse, 4 were slain. 10 of onr [sic] men which were prisoners in Basing house escaped. Certified by gentlemen that were engaged in the service. Published according to order.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Domini, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Norton, Richard, 1614 or 15-1691 --  Early works to 1800.</term>
+               <term>Jones, --  Colonel --  Early works to 1800.</term>
+               <term>Rayden, --  Colonel --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155151:1" rendition="simple:additions"/>
+            <p>
+               <hi>A GREAT</hi> VICTORY OBTAINED By Colonel NORTON and his horſe, and Colonell <hi>Jones</hi> and his foote, againſt Colonel <hi>Rayden,</hi> from Baſing houſe, neere Walnebo<g ref="char:EOLhyphen"/>rough Mill, within halfe a mile of Odi<g ref="char:EOLhyphen"/>um; where were taken priſoners
+<list>
+                  <item>Ssrjeant Major <hi>Langley,</hi> a Mercer in Pater-noſter-row, that went to Baſing, alſo his eſcape.</item>
+                  <item>Captain <hi>Rawlet</hi> that was a Scrivener at Holbern bridge.</item>
+                  <item>Lieutenant <hi>Rawlet</hi> at Holborne Cunduit.</item>
+                  <item>Lieutenant <hi>Ivorie</hi> a Citizen of London.</item>
+                  <item>Enſigne <hi>Lucas</hi> a ſilke dier in the Old baly.</item>
+                  <item>Enſigne <hi>Corum,</hi> a Papiſt of Wincheſter.</item>
+                  <item>
+                     <hi>Robinſon</hi> a Chyrurgeon to the Marques of Wincheſter, a Papiſt.</item>
+               </list>
+            </p>
+            <p>Taken beſides,
+<list>
+                  <item>3 Gentlemen of Armes</item>
+                  <item>3 Serjeants,</item>
+                  <item>3 Drummers,</item>
+                  <item>5 Drums,</item>
+                  <item>75 Common men,</item>
+                  <item>100 Armes,</item>
+                  <item>ſome horſe,</item>
+                  <item>4 were ſlain.</item>
+                  <item>10 of our men which were priſoners in Baſing houſe eſcaped.</item>
+               </list> Certified by Gentlemen that were engaged in the ſervice.</p>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Andrew Coe,</hi> Anno Domini, 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:155151:2"/>
+            <pb facs="tcp:155151:2"/>
+            <head>A VJCTORY Obtained by Colonell Norton, and Colonell Iones.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N Saturday the firſt of June Colonel Nortons Watch of horſe faced Baſing houſe, whereupon, as it was certified by priſoners ſince taken, Col. Royden a decayed Marchant of London, who lived at clarken well, and went to Baſing to re<g ref="char:EOLhyphen"/>crute, being the Governour of that Gariſon, with the Lord Marques of Wincheſter a
+<pb facs="tcp:155151:3"/>known papiſts called a Councell of Warre: in Ba<g ref="char:EOLhyphen"/>ſing houſe, by which Councell of War it was thus agreed:
+<list>
+                  <item>1 <hi>THat Forces ſhould be drawn out, and ſent forth to fall upon Colonel Norton, and Colonel Jones their quar<g ref="char:EOLhyphen"/>ters at Odyam.</hi>
+                  </item>
+                  <item>2 <hi>That they ſhould give no quarter, but put all to the ſword.</hi>
+                  </item>
+                  <item>3 <hi>That two men ſhould go along with them, one with a dark Lanthorne, and the other with Torches to fire the Towne of Odyam.</hi>
+                  </item>
+                  <item>6 <hi>That they ſhould have all the plun<g ref="char:EOLhyphen"/>der of the Town for the ſame.</hi>
+                  </item>
+                  <item>5 <hi>That they ſhould have each man five ſhillings before the march.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>By theſe and other proceedings of the Enemy, we may eaſily ſee the danger of their cruell and bloudie counſels.</p>
+            <pb facs="tcp:155151:3"/>
+            <p>And accordingly they drew out all their horſe, and moſt part of their Foot, which was able to march; about eleven of the clock at night, none being left in the houſe onely thoſe which were upon the guard: or notable to march by reaſon of ſickneſſe.</p>
+            <p>About two of the clock on Sunday morning, a gen<g ref="char:EOLhyphen"/>tleman of Colonel <hi>Nortons</hi> Troope being Centrie, hailed them at <hi>Walnbrough</hi> Mill, being about halfe a mile from Odiam, who giving an Alarm to the Towne, the Watch of horſe drew out, who faced them and fought with them in the lane, a little above the Mill.</p>
+            <p>They being forced to retreat with the loſſe of one man only, who died valiantly: afterwards the enemy fell upon the foot in their guards, who were all ready to give them an anſwer, and accordingly defended themſelves very valiantly.</p>
+            <p>Colonel <hi>Norton</hi> in all this loſing no time had by this got moſt part of his horſe ready, and drew them into the field: leaving the reſt for the Towne, and marching cloſe to the enemie very furiouſly: fell up<g ref="char:EOLhyphen"/>on them with great valour: which cauſed the enemie preſently to retreat, and upon their retreat were taken as followeth.</p>
+            <p>Major <hi>Langley,</hi> ſometimes a Mercer in <hi>Pater Noſter Row,</hi> was taken priſoner, wounded, but being in poor habit, more like a Tinker then a Gentleman, was let go again.</p>
+            <p>Captain <hi>Rowlet</hi> a Scrivener at Holborne bridge alſo is taken, and Lievetenant <hi>Rowlet</hi> his brother againſt Holborne Conduit in London.</p>
+            <pb facs="tcp:155151:4"/>
+            <p>Livetenant <hi>Ivory</hi> ſometimes a Citizen of London.</p>
+            <p>Enſigne <hi>Lucas,</hi> a ſilk Dier in the old Baily.</p>
+            <p>Ancient <hi>Coram,</hi> ſon of one <hi>Coram</hi> a papiſt in Win<g ref="char:EOLhyphen"/>cheſter.</p>
+            <p>
+               <hi>William Robinſon</hi> a Papiſt, Surgeon to the Lord Mar<g ref="char:EOLhyphen"/>queſſe of Wincheſter.
+<list>
+                  <item>3 Sergeants.</item>
+                  <item>5 Drums and 3 Drummers.</item>
+                  <item>3 Gentlemen of the Arms.</item>
+                  <item>1 Sutler to the Army</item>
+                  <item>75 common Souldiers, whereof ſome of them are ſuch as have formerly ran from the Parlia<g ref="char:EOLhyphen"/>ment ſervice: and are likely to receive their juſt re<g ref="char:EOLhyphen"/>ward.</item>
+               </list>
+            </p>
+            <p>There were alſo taken a 100 foot Armes, beſides horſe and Arms: every man keeping what horſe hee took himſelf.</p>
+            <p n="4">4 found dead upon the place, many wounded ſome very dangerouſly.</p>
+            <p>We loſt on our ſide only one man, and about 7 or 8 ſhot, which was all the loſſe wee had, one being a Lievtenant of thoſe were hurt of our men.</p>
+            <p>The Enemies word was <hi>Honour,</hi> Ours, <hi>GOD for us.</hi>
+            </p>
+            <p>They that are taken priſoners report, that they were encouraged to come forth of Baſing houſe a<g ref="char:EOLhyphen"/>gainſt Colonell <hi>Nortons</hi> forces; to take from them their buffe Coats and new ſhillings, which Colonel <hi>Norton</hi> had newly paid their men, but they were diſ<g ref="char:EOLhyphen"/>appointed of their hopes; wee ſhewed them ſhalfe Crowns as well as ſhillings: after they were taken pri<g ref="char:EOLhyphen"/>ſoners.</p>
+            <pb facs="tcp:155151:4"/>
+            <p>About 4 of the clock in the afternoone Colonel Nortons horſe marched againe up to Baſing houſe, and 4 of his Trumpeters ſounded firſt a chalenge, and afterwards two or three Levets flouriſhing before the ene<g ref="char:EOLhyphen"/>mie, but the enemie appeared not.</p>
+            <p>The ſame night 10 of our men, which they had formerly taken priſoners, and uſed moſt barberouſly, &amp; ſtripped naked to their very ſhirts from their backs, having an hop<g ref="char:EOLhyphen"/>bag in their priſon, with the ſame made means by cutting into ſlips to lengthen it: to let them down: made an eſcape and came to our forces to Odyam, one of them being a Kentiſh Corporall, and moſt of the reſt were taken when Sir <hi>William Waller</hi> was before Baſing, who tell us that there is but 7 of our men priſoners in Baſing left,</p>
+            <p>From Odyam Collonel Norton ſent his priſoners to Southampton, from thence to be ſent up to London, whither in few dayes they will be brought, If God permit.</p>
+            <pb facs="tcp:155151:5"/>
+            <p>This is ſuch a ſhake to the Gariſon at Ba<g ref="char:EOLhyphen"/>ſing houſe, that it is beleived there are ſcarſe ſo many more in Baſing houſe to keepe the Gariſon.</p>
+            <p>By this time if the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urrey and Suſſex Forces be come up to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olonel Norton: Baſing is beſieged.</p>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
